@@ -4,7 +4,7 @@ import random
 import time
 import subprocess
 
-time.sleep(random.random()*60)
+time.sleep(random.random()*3600)
 
 command = ['/usr/local/bin/certbot', 'renew']
 
