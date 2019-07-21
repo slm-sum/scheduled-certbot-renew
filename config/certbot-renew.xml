@@ -18,5 +18,9 @@
         <key>Minute</key>
         <integer>0</integer>
 	</dict>
+    <key>StandardOutPath</key>
+    <string>/Users/username/bin/certbot-renew.out</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/username/bin/certbot-renew.err</string>
 </dict>
 </plist>
